@@ -1,0 +1,32 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "name": "Red Gold Inc"
+    },
+    {
+      "id": 2,
+      "name": "TriStar Enterprise"
+    },
+    {
+      "id": 3,
+      "name": "Happy Horizons Food Supplies"
+    },
+    {
+      "id": 4,
+      "name": "JaCaRe School Supplies"
+    },
+    {
+      "id": 5,
+      "name": "XYZZ Wholesale and Retail"
+    },
+    {
+      "id": 6,
+      "name": "Green Arrow Inc."
+    },
+    {
+      "id": 7,
+      "name": "Blue Bowl Supplies"
+    },
+  ]
+}
