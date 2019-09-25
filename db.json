@@ -40,5 +40,19 @@
         "otpVerified": 0
       }
     }
+  ],
+  "mpin_verification": [
+    {
+      "id": 0000,
+      "set_attributes": {
+        "mpinVerified": false
+      }
+    },
+    {
+      "id": 1111,
+      "set_attributes": {
+        "mpinVerified": true
+      }
+    }
   ]
 }
