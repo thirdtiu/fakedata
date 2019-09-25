@@ -57,13 +57,13 @@
   ],
   "mpin_creation": [
     {
-      "id": 0000,
+      "id": 0,
       "set_attributes": {
         "mpinCreated": false
       }
     },
     {
-      "id": 1111,
+      "id": 1,
       "set_attributes": {
         "mpinCreated": true
       }
