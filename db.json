@@ -20,5 +20,25 @@
         "whitelist": false
       }
     }
+  ],
+  "otp_verification": [
+    {
+      "id": 0,
+      "set_attributes": {
+        "otpVerified": false
+      }
+    },
+    {
+      "id": 1,
+      "set_attributes": {
+        "otpVerified": true
+      }
+    },
+    {
+      "id": 3,
+      "set_attributes": {
+        "otpVerified": 0
+      }
+    }
   ]
 }
