@@ -54,5 +54,19 @@
         "mpinVerified": true
       }
     }
+  ],
+  "mpin_creation": [
+    {
+      "id": 0000,
+      "set_attributes": {
+        "mpinCreated": false
+      }
+    },
+    {
+      "id": 1111,
+      "set_attributes": {
+        "mpinCreated": true
+      }
+    }
   ]
 }
