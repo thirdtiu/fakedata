@@ -43,13 +43,13 @@
   ],
   "mpin_verification": [
     {
-      "id": 0000,
+      "id": 0,
       "set_attributes": {
         "mpinVerified": false
       }
     },
     {
-      "id": 1111,
+      "id": 1,
       "set_attributes": {
         "mpinVerified": true
       }
