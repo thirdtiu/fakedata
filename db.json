@@ -10,14 +10,14 @@
       "id": 1,
       "customer_id": "1111",
       "set_attributes": {
-        "whitelist": 1
+        "whitelist": true
       }
     },
     {
-      "id": 2,
+      "id": 0,
       "customer_id": "0000",
       "set_attributes": {
-        "whitelist": 0
+        "whitelist": false
       }
     }
   ]
