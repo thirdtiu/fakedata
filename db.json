@@ -8,11 +8,17 @@
   "cid": [
     {
       "id": 1,
-      "customer_id": "1111"
+      "customer_id": "1111",
+      "set_attributes": {
+        "whitelist": true
+      }
     },
     {
       "id": 2,
-      "customer_id": "0000"
+      "customer_id": "0000",
+      "set_attributes": {
+        "whitelist": false
+      }
     }
   ]
 }
