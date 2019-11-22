@@ -1,71 +1,11 @@
 {
-  "otp": [
+  "messages": [
     {
-      "id": 1,
-      "code": "3322"
-    }
-  ],
-  "cid": [
-    {
-      "id": 1,
-      "customer_id": "1111",
-      "set_attributes": {
-        "whitelist": true
-      }
-    },
-    {
-      "id": 0,
-      "customer_id": "0000",
-      "set_attributes": {
-        "whitelist": false
-      }
-    }
-  ],
-  "otp_verification": [
-    {
-      "id": 0,
-      "set_attributes": {
-        "otpVerified": false
-      }
-    },
-    {
-      "id": 1,
-      "set_attributes": {
-        "otpVerified": true
-      }
-    },
-    {
-      "id": 3,
-      "set_attributes": {
-        "otpVerified": 0
-      }
-    }
-  ],
-  "mpin_verification": [
-    {
-      "id": 0,
-      "set_attributes": {
-        "mpinVerified": false
-      }
-    },
-    {
-      "id": 1,
-      "set_attributes": {
-        "mpinVerified": true
-      }
-    }
-  ],
-  "mpin_creation": [
-    {
-      "id": 0,
-      "set_attributes": {
-        "mpinCreated": false
-      }
-    },
-    {
-      "id": 1,
-      "set_attributes": {
-        "mpinCreated": true
+      "attachment": {
+        "type": "file",
+        "payload": {
+          "url": "https://rockets.chatfuel.com/assets/ticket.pdf"
+        }
       }
     }
   ]
